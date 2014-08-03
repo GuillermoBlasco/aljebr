@@ -1,0 +1,10 @@
+
+# IDE: Intellij Idea
+*.iml
+.idea/
+target/
+
+# Java
+*.jar
+*.war
+*.class
