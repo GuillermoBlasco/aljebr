@@ -9,6 +9,13 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>https://github.com/GuillermoBlasco/aljebr/blob/master/LICENSE.txt</url>
+        </license>
+    </licenses>
+
     <url>https://github.com/GuillermoBlasco/aljebr</url>
 
     <developers>
